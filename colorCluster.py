@@ -18,7 +18,7 @@ x = []
 for pixel in pixels[::step]:
     x.append(pixel)
 
-# find the pixel clusters in the image;
+# find the pixel clusters in the image
 # if the number of clusters is not close to the real number
 # KMeans will average distant pixels, distorting the color
 kmean = KMeans(n_clusters=number_of_clusters)
