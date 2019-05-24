@@ -1,13 +1,13 @@
 # PaletteCluster
 Algorithms for generating color palettes and other comprehensive features using pixel clustering
 
+Image example:  
+![totoro](totoro.jpg)  
 
-![totoro](totoro.jpg)
+Palette with 5 clusters:  
+
 ![totoropalette](totoropalette.png)
-![points_cluster](totoro_415pt.png)
 
-
-
-V2 made with visualization.py
+made with visualization.py:
 
 ![colored points_cluster](totoro_415colorpt.png)
